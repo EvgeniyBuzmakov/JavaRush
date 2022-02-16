@@ -1,2 +1,2 @@
 # JavaRush
-JavaRush tasks and examples from study materials.
+JavaRush tasks and development of code examples from study materials.
